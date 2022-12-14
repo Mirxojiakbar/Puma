@@ -1,0 +1,141 @@
+.btn_orange {
+    background: #FF9635;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+.orange-text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 39px;
+    color: #FF8947;
+    margin-top: 100px;
+    margin-bottom: -50px;
+    margin-left: 10px;
+}
+
+.absolute_div {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: absolute;
+    margin-top: 1%;
+    background: white;
+    height: 129px;
+    width: 865px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 30px rgba(147, 147, 147, 0.25);
+}
+
+.iconca {
+    border-right: 3px solid black !important;
+    padding-right: 15px;
+}
+
+h1 {
+    margin-top: 50px;
+    font-size: 70px !important;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.header {
+    background: linear-gradient(90deg, rgba(255, 239, 186, 0.58) 0%, #FFFFFF 100%);
+    padding: 100px 72px;
+}
+
+.section1 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.three-dives {
+    box-shadow: 0px 0px 20px rgba(128, 128, 128, 0.3);
+    border-radius: 15px;
+    padding: 5% 0px;
+    text-align: center;
+}
+
+.h2 {
+    font-weight: bolder;
+    margin-top: 50px;
+    font-size: 50px !important;
+}
+
+.categories {
+    cursor: pointer;
+    margin-left: 75px;
+}
+
+.btn_orange:hover {
+    color: #FF8947;
+    border: 2px solid#FF9635;
+}
+
+.categories:hover {
+    border-bottom: 5px solid #FF8947;
+}
+
+.right-0 {
+    position: absolute;
+    right: 10%;
+    cursor: pointer;
+}
+
+.trainers {
+    margin-left: -25px;
+    margin-top: 20px;
+}
+
+.top_much {
+    margin-top: 200px;
+}
+
+.one_div {
+    background: linear-gradient(90deg, #FD746C 0%, #FF9068 100%);
+    margin-top: 200px;
+    display: flex;
+    border-radius: 20px;
+}
+
+.right {
+    padding-left: -10px;
+}
+
+.inputike {
+    display: flex;
+    width: 614px;
+    height: 52px;
+}
+
+.white_input {
+    color: #686868;
+    font-weight: 500;
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.65);
+    border: 2px solid #FFFFFF;
+    border-end-end-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.white_button {
+    background: #FFFFFF;
+    font-weight: bold;
+    height: 52px;
+    width: 95px;
+    font-size: 19px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.last_thing{
+    margin-top: 20px;
+    border-top: 1px solid gray;
+}
